@@ -1,0 +1,22 @@
+body {
+  color: pink;
+  font-size: 20px;
+  background-color: #4286f4;
+}
+
+h1{
+  color: purple;
+}
+
+h2{
+  color: orange;
+}
+
+h3{
+  color: white;
+}
+
+
+p{
+  text-align: right;
+}
